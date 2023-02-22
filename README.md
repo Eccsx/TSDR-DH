@@ -31,6 +31,41 @@ For a dataset to be displayed in this repository, it must fit the following requ
 - Contains more than several dozen images
 - Named by its original authors or the scientific community
 
-About the characteristics of each dataset, I refer to the original articles and showcase websites if such exists.
+About the characteristics of each dataset, I refer to the original articles and showcase websites if such exist.
+
+<p align="right"><a href="#top"><i>back to top</i></a></p>
+
+<!-- DATA -->
+
+## Data
+
+Each dataset is checked for the following features:
+
+- Year of publication
+- Content's origin
+- Name
+- Task
+	+ Detection
+	+ Recognition
+- Type
+	+ Images
+	+ Videos
+- Number of instances
+- Number of sign classes
+- Weather conditions
+	+ Day
+	+ Night
+	+ Rain
+	+ Snow
+	+ Fog
+- Alterations
+	+ Occlusion
+	+ Faded colors
+	+ Damage
+	+ Illumination
+- Artifacts
+	+ Blur	
+	+ Noise
+	+ Vibrations
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
