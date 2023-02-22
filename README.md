@@ -19,3 +19,18 @@ While searching and reading publications, I noticed two things. There are a lot 
 That's why I decided to create the repository, with the idea of offering a single place to display all the information related to traffic sign datasets.
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
+
+<!-- METHODOLOGY -->
+
+## Methodology
+
+For a dataset to be displayed in this repository, it must fit the following requirements:
+
+- Designed for traffic sign detection and/or recognition
+- Introduced and described within a publication
+- Contains more than several dozen images
+- Named by its original authors or the scientific community
+
+About the characteristics of each dataset, I refer to the original articles and showcase websites if such exists.
+
+<p align="right"><a href="#top"><i>back to top</i></a></p>
