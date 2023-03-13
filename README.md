@@ -46,7 +46,7 @@ Each dataset is checked for the following features:
 
 - **origin** — Origin of the data (*e.g.* country, other dataset)
 - **name** — Name of the dataset
-- **task **— Purpose of the dataset (detection, classification)
+- **task** — Purpose of the dataset (detection, classification)
 - **type** — Type of the data (images, video sequences)
 - **nb_inst** — Number of instances
 - **nb_class** — Number of sign classes
