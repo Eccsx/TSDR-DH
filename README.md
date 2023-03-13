@@ -53,6 +53,6 @@ Each dataset is checked for the following features:
 - **kind** — Data's kind (real, synthetic)
 - **weather** — Weather conditions among the data (day, night, rain, snow, haze, fog)
 - **tf_alt** — Alteration among the traffic signs (occlusion, faded colors, damage, illuminations, vandalism)
-- **artifacts** — Visual aterfacts among the data (blur, noise, codec, vibrations, glare)
+- **artifact** — Visual aterfacts among the data (blur, noise, codec, vibrations, glare)
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
