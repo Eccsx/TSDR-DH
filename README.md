@@ -8,6 +8,7 @@
     </p>
 </div>
 
+
 <!-- ABOUT THE PROJECT -->
 
 ## About
@@ -41,31 +42,17 @@ About the characteristics of each dataset, I refer to the original articles and 
 
 Each dataset is checked for the following features:
 
-- Year of publication
-- Content's origin
-- Name
-- Task
-	+ Detection
-	+ Recognition
-- Type
-	+ Images
-	+ Videos
-- Number of instances
-- Number of sign classes
-- Weather conditions
-	+ Day
-	+ Night
-	+ Rain
-	+ Snow
-	+ Fog
-- Alterations
-	+ Occlusion
-	+ Faded colors
-	+ Damage
-	+ Illumination
-- Artifacts
-	+ Blur	
-	+ Noise
-	+ Vibrations
+- **year** — Year of the data publication
+
+- **origin** — Origin of the data (*e.g.* country, other dataset)
+- **name** — Name of the dataset
+- **task **— Purpose of the dataset (detection, classification)
+- **type** — Type of the data (images, video sequences)
+- **nb_inst** — Number of instances
+- **nb_class** — Number of sign classes
+- **kind** — Data's kind (real, synthetic)
+- **weather** — Weather conditions among the data (day, night, rain, snow, haze, fog)
+- **tf_alt** — Alteration among the traffic signs (occlusion, faded colors, damage, illuminations, vandalism)
+- **artifacts** — Visual aterfacts among the data (blur, noise, codec, vibrations, glare)
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
