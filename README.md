@@ -131,7 +131,6 @@ Each dataset is checked for the following features:
   <td>✗</td>  
   <td>✗</td>
   <td>✗</td>
-  <td>✗</td>
  </tr>
 </tbody></table>
 
