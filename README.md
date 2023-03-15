@@ -106,7 +106,7 @@ Each dataset is checked for the following features:
  <tr>
   <td>2009</td>
   <td>Netherlands</td>
-  <td><a href="#rugstsd">RUGTSD</a></td>
+  <td><a href="#rugtsd">RUGTSD</a></td>
   <td>✓</td>
   <td>✗</td>
   <td>✓</td>
