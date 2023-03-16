@@ -138,7 +138,7 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- classifcation -->
   <td>✓</td> <!-- image -->
   <td>✗</td> <!-- video -->
-  <td>3,715</td> <!-- instances -->
+  <td>3,415</td> <!-- instances -->
   <td>17</td> <!-- classes -->
   <td>✓</td> <!-- real -->
   <td>✗</td> <!-- synthethic -->
