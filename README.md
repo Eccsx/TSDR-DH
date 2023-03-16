@@ -70,14 +70,14 @@ Each dataset is checked for the following features:
   <td rowspan="2">year</td>
   <td rowspan="2">origin</td>
   <td rowspan="2">name</td>
-  <td colspan="2">task</td>
+  <td colspan="2">tasks</td>
   <td colspan="2">type</td>
-  <td rowspan="2">instance</td>
-  <td rowspan="2">class</td></td>
+  <td rowspan="2">instances</td>
+  <td rowspan="2">classes</td></td>
   <td colspan="2">kind</td>
   <td colspan="6">weather</td>
-  <td colspan="5">alteration</td>
-  <td colspan="5">artifact</td>
+  <td colspan="4">alterations</td>
+  <td colspan="5">artifacts</td>
  </tr>
  <tr>
   <td>detection</td>
@@ -96,7 +96,6 @@ Each dataset is checked for the following features:
   <td>faded color</td>
   <td>damage</td>
   <td>illumination</td>
-  <td>vandalism</td>
   <td>blur</td>
   <td>noise</td>
   <td>codec</td>
@@ -104,44 +103,81 @@ Each dataset is checked for the following features:
   <td>glare</td>
  </tr>
  <tr>
-  <td>2009</td>
+  <td>2008</td>
   <td>Netherlands</td>
   <td><a href="#rugtsd">RUGTSD</a></td>
-  <td>✓</td>
-  <td>✗</td>
-  <td>✓</td>
-  <td>✗</td>
-  <td>48</td>
-  <td>3</td>
-  <td>✓</td>
-  <td>✗</td>
-  <td>✓</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>
-  <td>✗</td>  
-  <td>✗</td>
-  <td>✗</td>
+  <td>✓</td> <!-- detection -->
+  <td>✗</td> <!-- classifcation -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>48</td> <!-- instances -->
+  <td>3</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthethic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- nigth -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+<tr>
+  <td>2008</td>
+  <td>Sweden</td>
+  <td><a href="#ftsd">FTSD</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✗</td> <!-- classifcation -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>3,715</td> <!-- instances -->
+  <td>17</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthethic -->
+  <td>✓</td> <!-- day -->
+  <td>✓</td> <!-- nigth -->
+  <td>✓</td> <!-- rain -->
+  <td>✓</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✓</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✓</td> <!-- faded color -->
+  <td>✓</td> <!-- damage -->
+  <td>✓</td> <!-- illumination -->
+  <td>✓</td> <!-- blur -->
+  <td>✓</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
  </tr>
 </tbody></table>
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
-<h3 id="rugtsd">RUG Traffic Sign Database</h3>
+<h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
 
 > C. Grigorescu and N. Petkov, "Distance sets for shape filters and shape recognition," in *IEEE Transactions on Image Processing*, vol. 12, no. 10, pp. 1274-1286, Oct. 2003, doi: 10.1109/TIP.2003.816010.
 
 License ➔ *n/a*
 
 Link ➔ http://www.cs.rug.nl/~imaging
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="ftsd">Fleyeh Traffic Signs Database</h3>
+
+> Fleyeh, H. (2008). Traffic and Road Sign Recognition.
+
+License ➔ *n/a*
+
+Link ➔ http://users.du.se/~hfl/traffic_signs/
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
