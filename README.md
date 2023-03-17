@@ -214,11 +214,36 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- codec -->
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
+</tr>
+<tr>
+  <td>2022</td>
+  <td>U.S.A</td>
+  <td><a href="#glare">GLARE</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classifcation -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>2,157</td> <!-- instances -->
+  <td>41</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthethic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- nigth -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✓</td> <!-- glare -->
  </tr>
 </tbody></table>
-
-
-
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
@@ -261,5 +286,15 @@ Link ➔ *n/a*
 License ➔ *n/a*
 
 Link ➔ https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="glare">GLARE</h3>
+
+> Gray, Nicholas & Moraes, Megan & Bian, Jiang & Tian, Allen & Wang, Alex & Xiong, Haoyi & Guo, Zhishan. (2022). GLARE: A Dataset for Traffic Sign Detection in Sun Glare.
+
+License ➔ Creative Commons Attribution 4.0 International Public License
+
+Link ➔ https://github.com/NicholasCG/GLARE_Dataset
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
