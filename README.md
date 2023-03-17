@@ -11,6 +11,7 @@
 </div>
 
 
+
 <!-- ABOUT THE PROJECT -->
 
 ## About
@@ -129,7 +130,7 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- codec -->
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
- </tr>
+</tr>
 <tr>
   <td>2008</td>
   <td>Sweden</td>
@@ -157,8 +158,38 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- codec -->
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
+</tr>
+<tr>
+  <td>2010</td>
+  <td>France</td>
+  <td><a href="#stereopolis">Stereopolis</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✗</td> <!-- classifcation -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>847</td> <!-- instances -->
+  <td>4</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthethic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- nigth -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
  </tr>
 </tbody></table>
+
+
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
@@ -179,5 +210,15 @@ Link ➔ http://www.cs.rug.nl/~imaging
 License ➔ *n/a*
 
 Link ➔ http://users.du.se/~hfl/traffic_signs/
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="stereopolis">Stereopolis</h3>
+
+> R. Belaroussi, P. Foucher, J. -P. Tarel, B. Soheilian, P. Charbonnier and N. Paparoditis, "Road Sign Detection in Images: A Case Study," 2010 20th International Conference on Pattern Recognition, Istanbul, Turkey, 2010, pp. 484-488, doi: 10.1109/ICPR.2010.1125.
+
+License ➔ *n/a*
+
+Link ➔ *n/a*
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
