@@ -186,8 +186,37 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- codec -->
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
+</tr>
+<tr>
+  <td>2011</td>
+  <td>Sweden</td>
+  <td><a href="#stsd">STSD</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classifcation -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>20,000 +</td> <!-- instances -->
+  <td>7</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthethic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- nigth -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✓</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
  </tr>
 </tbody></table>
+
 
 
 
@@ -220,5 +249,17 @@ Link ➔ http://users.du.se/~hfl/traffic_signs/
 License ➔ *n/a*
 
 Link ➔ *n/a*
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="stsd">Swedish Traffic Signs Dataset</h3>
+
+> Fredrik Larsson and Michael Felsberg , Using Fourier Descriptors and Spatial Models for Traffic Sign Recognition , In Proceedings of the 17th Scandinavian Conference on Image Analysis, SCIA 2011, LNCS 6688, pp. 238-249. bib , doi:10.1007/978-3-642-21227-7_23
+>
+> Fredrik Larsson, Michael Felsberg, and Per-Erik Forssen , Correlating Fourier descriptors of local patches for road sign recognition , IET Computer Vision, 5(4): 244-254, 2011. bib , doi:10.1049/iet-cvi.2010.0040
+
+License ➔ *n/a*
+
+Link ➔ https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
