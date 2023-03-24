@@ -55,7 +55,7 @@ Each dataset is checked for the following features:
 - **kind** — Data's kind (real, synthetic)
 - **weather** — Weather conditions among the data
 - **alteration** — Alteration among the traffic signs
-- **artifact** — Visual aterfacts among the data
+- **artifact** — Visual artifacts among the data
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
@@ -108,15 +108,15 @@ Each dataset is checked for the following features:
   <td>Netherlands</td>
   <td><a href="#rugtsd">RUGTSD</a></td>
   <td>✓</td> <!-- detection -->
-  <td>✗</td> <!-- classifcation -->
+  <td>✗</td> <!-- classification -->
   <td>✓</td> <!-- image -->
   <td>✗</td> <!-- video -->
   <td>48</td> <!-- instances -->
   <td>3</td> <!-- classes -->
   <td>✓</td> <!-- real -->
-  <td>✗</td> <!-- synthethic -->
+  <td>✗</td> <!-- synthetic -->
   <td>✓</td> <!-- day -->
-  <td>✗</td> <!-- nigth -->
+  <td>✗</td> <!-- night -->
   <td>✗</td> <!-- rain -->
   <td>✗</td> <!-- snow -->
   <td>✗</td> <!-- haze -->
@@ -136,15 +136,15 @@ Each dataset is checked for the following features:
   <td>Sweden</td>
   <td><a href="#ftsd">FTSD</a></td>
   <td>✓</td> <!-- detection -->
-  <td>✗</td> <!-- classifcation -->
+  <td>✗</td> <!-- classification -->
   <td>✓</td> <!-- image -->
   <td>✗</td> <!-- video -->
   <td>3,415</td> <!-- instances -->
   <td>17</td> <!-- classes -->
   <td>✓</td> <!-- real -->
-  <td>✗</td> <!-- synthethic -->
+  <td>✗</td> <!-- synthetic -->
   <td>✓</td> <!-- day -->
-  <td>✓</td> <!-- nigth -->
+  <td>✓</td> <!-- night -->
   <td>✓</td> <!-- rain -->
   <td>✓</td> <!-- snow -->
   <td>✗</td> <!-- haze -->
@@ -164,15 +164,15 @@ Each dataset is checked for the following features:
   <td>France</td>
   <td><a href="#stereopolis">Stereopolis</a></td>
   <td>✓</td> <!-- detection -->
-  <td>✗</td> <!-- classifcation -->
+  <td>✗</td> <!-- classification -->
   <td>✓</td> <!-- image -->
   <td>✗</td> <!-- video -->
   <td>847</td> <!-- instances -->
   <td>4</td> <!-- classes -->
   <td>✓</td> <!-- real -->
-  <td>✗</td> <!-- synthethic -->
+  <td>✗</td> <!-- synthetic -->
   <td>✓</td> <!-- day -->
-  <td>✗</td> <!-- nigth -->
+  <td>✗</td> <!-- night -->
   <td>✗</td> <!-- rain -->
   <td>✗</td> <!-- snow -->
   <td>✗</td> <!-- haze -->
@@ -192,15 +192,15 @@ Each dataset is checked for the following features:
   <td>Sweden</td>
   <td><a href="#stsd">STSD</a></td>
   <td>✓</td> <!-- detection -->
-  <td>✓</td> <!-- classifcation -->
+  <td>✓</td> <!-- classification -->
   <td>✓</td> <!-- image -->
   <td>✗</td> <!-- video -->
   <td>20,000 +</td> <!-- instances -->
   <td>7</td> <!-- classes -->
   <td>✓</td> <!-- real -->
-  <td>✗</td> <!-- synthethic -->
+  <td>✗</td> <!-- synthetic -->
   <td>✓</td> <!-- day -->
-  <td>✗</td> <!-- nigth -->
+  <td>✗</td> <!-- night -->
   <td>✗</td> <!-- rain -->
   <td>✗</td> <!-- snow -->
   <td>✗</td> <!-- haze -->
@@ -216,19 +216,47 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- glare -->
 </tr>
 <tr>
+  <td>2016</td>
+  <td>Russia</td>
+  <td><a href="#rtsd">RTSD</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>179,138</td> <!-- instances -->
+  <td>156</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✓</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✓</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✓</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✓</td> <!-- glare -->
+ </tr>
+<tr>
   <td>2022</td>
   <td>U.S.A</td>
   <td><a href="#glare">GLARE</a></td>
   <td>✓</td> <!-- detection -->
-  <td>✓</td> <!-- classifcation -->
+  <td>✓</td> <!-- classification -->
   <td>✓</td> <!-- image -->
   <td>✗</td> <!-- video -->
   <td>2,157</td> <!-- instances -->
   <td>41</td> <!-- classes -->
   <td>✓</td> <!-- real -->
-  <td>✗</td> <!-- synthethic -->
+  <td>✗</td> <!-- synthetic -->
   <td>✓</td> <!-- day -->
-  <td>✗</td> <!-- nigth -->
+  <td>✗</td> <!-- night -->
   <td>✗</td> <!-- rain -->
   <td>✗</td> <!-- snow -->
   <td>✗</td> <!-- haze -->
@@ -286,6 +314,16 @@ Link ➔ *n/a*
 License ➔ *n/a*
 
 Link ➔ https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="rtsd">Russian Traffic Sign images Dataset</h3>
+
+> Shakhuro, V.I. & Konushin, Anton. (2016). Russian traffic sign images dataset. Computer Optics. 40. 294-300. 10.18287/2412-6179-2016-40-2-294-300. 
+
+License ➔ *n/a*
+
+Link ➔ https://graphics.cs.msu.ru/projects/traffic-sign-recognition.html
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
