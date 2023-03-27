@@ -197,7 +197,7 @@ Each dataset is checked for the following features:
   <td>✓</td> <!-- image -->
   <td>✓</td> <!-- video -->
   <td>11,000 ~</td> <!-- instances -->
-  <td>7</td> <!-- classes -->
+  <td>28</td> <!-- classes -->
   <td>✓</td> <!-- real -->
   <td>✗</td> <!-- synthetic -->
   <td>✓</td> <!-- day -->
@@ -272,6 +272,34 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
  </tr>
+<tr>
+  <td>2015</td>
+  <td>Croatia</td>
+  <td><a href="#rmastif">rMASTIF</a></td>
+  <td>✗</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>5,828</td> <!-- instances -->
+  <td>31</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+</tr>
 <tr>
   <td>2016</td>
   <td>Italy</td>
@@ -390,6 +418,7 @@ Each dataset is checked for the following features:
 
 
 
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -460,13 +489,23 @@ Link ➔ http://cvrr-nas.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
-<h3 id="dits">Data set of Italian Traffic Signs</h3>
+<h3 id="lisa">LISA Traffic Sign Dataset</h3>
 
-> Youssef, Ali & Albani, Dario & Nardi, Daniele & Bloisi, Domenico. (2016). Fast Traffic Sign Recognition Using Color Segmentation and Deep Convolutional Networks. 10016. 10.1007/978-3-319-48680-2_19.
+> Andreas Møgelmose, Mohan M. Trivedi, and Thomas B. Moeslund, "Vision based Traffic Sign Detection and Analysis for Intelligent Driver Assistance Systems: Perspectives and Survey," IEEE Transactions on Intelligent Transportation Systems, 2012.
+
+License ➔ Academic License Agreement
+
+Link ➔ http://cvrr-nas.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="rmastif">revisted MASTIF Traffic Sign Classification Dataset</h3>
+
+> Jurisic, F., Filkovic, I., & Kalafatić, Z. (2015). Multiple-dataset traffic sign classification with OneCNN. 2015 3rd IAPR Asian Conference on Pattern Recognition (ACPR), 614-618.
 
 License ➔ *n/a*
 
-Link ➔ http://www.diag.uniroma1.it/~bloisi/ds/dits.html
+Link ➔ http://www.zemris.fer.hr/~kalfa/Datasets/rMASTIF/
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
