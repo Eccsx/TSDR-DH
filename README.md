@@ -197,7 +197,7 @@ Each dataset is checked for the following features:
   <td>✓</td> <!-- image -->
   <td>✓</td> <!-- video -->
   <td>11,000 ~</td> <!-- instances -->
-  <td>28</td> <!-- classes -->
+  <td>97</td> <!-- classes -->
   <td>✓</td> <!-- real -->
   <td>✗</td> <!-- synthetic -->
   <td>✓</td> <!-- day -->
@@ -419,6 +419,7 @@ Each dataset is checked for the following features:
 
 
 
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -465,6 +466,9 @@ License ➔ *n/a*
 
 Link ➔ http://www.zemris.fer.hr/~ssegvic/mastif/datasets.shtml
 
+> **Note** 
+> The MASTIF is composed of 3 datasets : TS2009, TS2010 and TS2011, which were named with respect to the year in which they were annotated. They have a different number of classes, so I decided to keep in the table the one from TS2009 because it is the richest.
+
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
 <h3 id="stsd">Swedish Traffic Signs Dataset</h3>
@@ -499,7 +503,7 @@ Link ➔ http://cvrr-nas.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
-<h3 id="rmastif">revisted MASTIF Traffic Sign Classification Dataset</h3>
+<h3 id="rmastif">revised MASTIF Traffic Sign Classification Dataset</h3>
 
 > Jurisic, F., Filkovic, I., & Kalafatić, Z. (2015). Multiple-dataset traffic sign classification with OneCNN. 2015 3rd IAPR Asian Conference on Pattern Recognition (ACPR), 614-618.
 
