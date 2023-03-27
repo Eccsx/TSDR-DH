@@ -12,6 +12,7 @@
 
 
 
+
 <!-- ABOUT THE PROJECT -->
 
 ## About
@@ -216,6 +217,34 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- glare -->
 </tr>
 <tr>
+  <td>2012</td>
+  <td>U.S.A</td>
+  <td><a href="#lisa">LISA</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✓</td> <!-- video -->
+  <td>6,610</td> <!-- instances -->
+  <td>49</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+<tr>
   <td>2016</td>
   <td>Russia</td>
   <td><a href="#rtsd">RTSD</a></td>
@@ -273,6 +302,8 @@ Each dataset is checked for the following features:
  </tr>
 </tbody></table>
 
+
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -314,6 +345,16 @@ Link ➔ *n/a*
 License ➔ *n/a*
 
 Link ➔ https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="lisa">LISA Traffic Sign Dataset</h3>
+
+> Andreas Møgelmose, Mohan M. Trivedi, and Thomas B. Moeslund, "Vision based Traffic Sign Detection and Analysis for Intelligent Driver Assistance Systems: Perspectives and Survey," IEEE Transactions on Intelligent Transportation Systems, 2012.
+
+License ➔ Academic License Agreement
+
+Link ➔ http://cvrr-nas.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
