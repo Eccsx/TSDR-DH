@@ -243,6 +243,35 @@ Each dataset is checked for the following features:
  </tr>
 <tr>
   <td>2016</td>
+  <td>Italy</td>
+  <td><a href="#dits">DITS</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>11,141</td> <!-- instances -->
+  <td>58</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✓</td> <!-- night -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✓</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+<tr>
+<tr>
+  <td>2016</td>
   <td>Russia</td>
   <td><a href="#rtsd">RTSD</a></td>
   <td>✓</td> <!-- detection -->
@@ -327,8 +356,6 @@ Each dataset is checked for the following features:
  </tr>
 </tbody></table>
 
-
-
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -380,6 +407,16 @@ Link ➔ https://www.cvl.isy.liu.se/research/datasets/traffic-signs-dataset/
 License ➔ Academic License Agreement
 
 Link ➔ http://cvrr-nas.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="dits">Data set of Italian Traffic Signs</h3>
+
+> Youssef, Ali & Albani, Dario & Nardi, Daniele & Bloisi, Domenico. (2016). Fast Traffic Sign Recognition Using Color Segmentation and Deep Convolutional Networks. 10016. 10.1007/978-3-319-48680-2_19.
+
+License ➔ *n/a*
+
+Link ➔ http://www.diag.uniroma1.it/~bloisi/ds/dits.html
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
