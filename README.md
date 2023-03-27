@@ -10,6 +10,9 @@
     </p>
 </div>
 
+
+
+
 <!-- ABOUT THE PROJECT -->
 
 ## About
@@ -176,6 +179,34 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- haze -->
   <td>✗</td> <!-- fog -->
   <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+</tr>
+<tr>
+  <td>2011</td>
+  <td>Croatia</td>
+  <td><a href="#mastif">MASTIF</a></td>
+  <td>✗</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✓</td> <!-- video -->
+  <td>11,000 ~</td> <!-- instances -->
+  <td>7</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
   <td>✗</td> <!-- faded color -->
   <td>✗</td> <!-- damage -->
   <td>✗</td> <!-- illumination -->
@@ -356,6 +387,9 @@ Each dataset is checked for the following features:
  </tr>
 </tbody></table>
 
+
+
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -385,6 +419,22 @@ Link ➔ http://users.du.se/~hfl/traffic_signs/
 License ➔ *n/a*
 
 Link ➔ *n/a*
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="mastif">MASTIF Traffic Signs</h3>
+
+> Segvic, Sinisa & Brkić, Karla & Kalafatic, Zoran & Pinz, Axel. (2014). Exploiting temporal and spatial constraints in traffic sign detection from a moving vehicle. Machine Vision and Applications. 25. 10.1007/s00138-011-0396-y. 
+>
+> Segvic, Sinisa & Brkić, Karla & Kalafatic, Zoran & Stanisavljević, Vladimir & Ševrović, Marko & Budimir, Damir & Dadić, I.. (2010). A computer vision assisted geoinformation inventory for traffic infrastructure. 66 - 73. 10.1109/ITSC.2010.5624979.
+>
+> Bonači, I., Kusalić, Ivan, Kovaček, Ivan, Kalafatić, Z. & Šegvić, S. (2011) Addressing false alarms and localization inaccuracy in traffic sign detection and recognition. In: Wendel, A., Sternig, S. & Godec, M. (ed.)Proceedings of the Computer Vision Winter Workshop.
+>
+> Brkić, K., Pinz, A., Šegvić, S. & Kalafatić, Z. (2011) Histogram-Based Description of Local Space-Time Appearance. Lecture Notes in Computer Science, 6688, 206-217 doi:10.1007/978-3-642-21227-7_20.
+
+License ➔ *n/a*
+
+Link ➔ http://www.zemris.fer.hr/~ssegvic/mastif/datasets.shtml
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
