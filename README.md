@@ -10,9 +10,6 @@
     </p>
 </div>
 
-
-
-
 <!-- ABOUT THE PROJECT -->
 
 ## About
@@ -273,6 +270,34 @@ Each dataset is checked for the following features:
   <td>✓</td> <!-- glare -->
  </tr>
 <tr>
+  <td>2019</td>
+  <td>Slovenia</td>
+  <td><a href="#dfg">DFG</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✗</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>6,757</td> <!-- instances -->
+  <td>200</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✓</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+<tr>
   <td>2022</td>
   <td>U.S.A</td>
   <td><a href="#glare">GLARE</a></td>
@@ -365,6 +390,16 @@ Link ➔ http://cvrr-nas.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
 License ➔ *n/a*
 
 Link ➔ https://graphics.cs.msu.ru/projects/traffic-sign-recognition.html
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="dfg">DFG Traffic Sign Dataset</h3>
+
+> D. Tabernik and D. Skočaj, "Deep Learning for Large-Scale Traffic-Sign Detection and Recognition," in IEEE Transactions on Intelligent Transportation Systems, vol. 21, no. 4, pp. 1427-1440, April 2020, doi: 10.1109/TITS.2019.2913588.
+
+License ➔ Attribution-NonCommercial-ShareAlike 4.0 International
+
+Link ➔ https://www.vicos.si/resources/dfg/
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
