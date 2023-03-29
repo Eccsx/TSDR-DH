@@ -218,6 +218,34 @@ Each dataset is checked for the following features:
 </tr>
 <tr>
   <td>2011</td>
+  <td>Germany</td>
+  <td><a href="#gtsrb">GTSRB</a></td>
+  <td>✗</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>50,000 ~</td> <!-- instances -->
+  <td>43</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+</tr>
+<tr>
+  <td>2011</td>
   <td>Sweden</td>
   <td><a href="#stsd">STSD</a></td>
   <td>✓</td> <!-- detection -->
@@ -472,6 +500,7 @@ Each dataset is checked for the following features:
 </tbody></table>
 
 
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -521,6 +550,16 @@ Link ➔ http://www.zemris.fer.hr/~ssegvic/mastif/datasets.shtml
 > **Note**
 >
 > The MASTIF is composed of 3 datasets : TS2009, TS2010 and TS2011, which were named with respect to the year in which they were annotated. They have a different number of classes, so I decided to keep in the table the one from TS2009 because it is the richest.
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="gtsrb">German Traffic Sign Recognition Benchmark</h3>
+
+> J. Stallkamp, M. Schlipsing, J. Salmen and C. Igel, "The German Traffic Sign Recognition Benchmark: A multi-class classification competition," The 2011 International Joint Conference on Neural Networks, San Jose, CA, USA, 2011, pp. 1453-1460, doi: 10.1109/IJCNN.2011.6033395.
+
+License ➔ *n/a*
+
+Link ➔ https://sid.erda.dk/public/archives/daaeac0d7ce1152aea9b61d9f1e19370/published-archive.html
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
