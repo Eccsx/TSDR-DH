@@ -443,12 +443,6 @@ Each dataset is checked for the following features:
  </tr>
 </tbody></table>
 
-
-
-
-
-
-
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -495,7 +489,8 @@ License ➔ *n/a*
 
 Link ➔ http://www.zemris.fer.hr/~ssegvic/mastif/datasets.shtml
 
-> **Note** 
+> **Note**
+>
 > The MASTIF is composed of 3 datasets : TS2009, TS2010 and TS2011, which were named with respect to the year in which they were annotated. They have a different number of classes, so I decided to keep in the table the one from TS2009 because it is the richest.
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
