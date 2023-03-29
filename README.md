@@ -302,6 +302,34 @@ Each dataset is checked for the following features:
 </tr>
 <tr>
   <td>2016</td>
+  <td>China</td>
+  <td><a href="#ctsd">CTSD</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>1,100</td> <!-- instances -->
+  <td>48</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+<tr>
+  <td>2016</td>
   <td>Italy</td>
   <td><a href="#dits">DITS</a></td>
   <td>✓</td> <!-- detection -->
@@ -420,6 +448,7 @@ Each dataset is checked for the following features:
 
 
 
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -493,16 +522,6 @@ Link ➔ http://cvrr-nas.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
-<h3 id="lisa">LISA Traffic Sign Dataset</h3>
-
-> Andreas Møgelmose, Mohan M. Trivedi, and Thomas B. Moeslund, "Vision based Traffic Sign Detection and Analysis for Intelligent Driver Assistance Systems: Perspectives and Survey," IEEE Transactions on Intelligent Transportation Systems, 2012.
-
-License ➔ Academic License Agreement
-
-Link ➔ http://cvrr-nas.ucsd.edu/LISA/lisa-traffic-sign-dataset.html
-
-<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
-
 <h3 id="rmastif">revised MASTIF Traffic Sign Classification Dataset</h3>
 
 > Jurisic, F., Filkovic, I., & Kalafatić, Z. (2015). Multiple-dataset traffic sign classification with OneCNN. 2015 3rd IAPR Asian Conference on Pattern Recognition (ACPR), 614-618.
@@ -513,9 +532,29 @@ Link ➔ http://www.zemris.fer.hr/~kalfa/Datasets/rMASTIF/
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
+<h3 id="ctsd">Chinese Traffic Sign Dataset</h3>
+
+> Yang, Yi & Luo, Hengliang & Xu, Huarong & Wu, Fuchao. (2015). Towards Real-Time Traffic Sign Detection and Classification. IEEE Transactions on Intelligent Transportation Systems. 17. 1-10. 10.1109/TITS.2015.2482461.
+
+License ➔ *n/a*
+
+Link ➔ https://luo.hengliang.me/data.htm
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="dits">Data set of Italian Traffic Signs</h3>
+
+> Youssef, A., Albani, D., Nardi, D., Bloisi, D.D. (2016). Fast Traffic Sign Recognition Using Color Segmentation and Deep Convolutional Networks. In: Blanc-Talon, J., Distante, C., Philips, W., Popescu, D., Scheunders, P. (eds) Advanced Concepts for Intelligent Vision Systems. ACIVS 2016. Lecture Notes in Computer Science(), vol 10016. Springer, Cham. https://doi.org/10.1007/978-3-319-48680-2_19
+
+License ➔ *n/a*
+
+Link ➔ http://www.diag.uniroma1.it/~bloisi/ds/dits.html
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
 <h3 id="rtsd">Russian Traffic Sign images Dataset</h3>
 
-> Shakhuro, V.I. & Konushin, Anton. (2016). Russian traffic sign images dataset. Computer Optics. 40. 294-300. 10.18287/2412-6179-2016-40-2-294-300. 
+> Shakhuro, V.I. & Konushin, Anton. (2016). Russian traffic sign images dataset. Computer Optics. 40. 294-300. 10.18287/2412-6179-2016-40-2-294-300.
 
 License ➔ *n/a*
 
