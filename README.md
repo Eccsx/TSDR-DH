@@ -553,6 +553,34 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
  </tr>
+ <tr>
+  <td>2020</td>
+  <td>World-wide</td>
+  <td><a href="#mtsd">MTSD</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>100,000</td> <!-- instances -->
+  <td>313</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✓</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✓</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✓</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✓</td> <!-- illumination -->
+  <td>✓</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
 <tr>
   <td>2019</td>
   <td>Slovenia</td>
@@ -831,6 +859,16 @@ Link ➔ https://ghassanalregibdotcom.wordpress.com/cure-tsr/
 > **Note**
 > 
 > CURE-TSR is a cropped version of the CURE-TSD.
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="mtsd">Mapillary Traffic Sign Dataset</h3>
+
+> Ertler, C., Mislej, J., Ollmann, T., Porzi, L., Neuhold, G., & Kuang, Y. (2020). The mapillary traffic sign dataset for detection and classification on a global scale. In Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XXIII 16 (pp. 68-84). Springer International Publishing.
+
+License ➔ Attribution-NonCommercial-ShareAlike 4.0 International
+
+Link ➔ https://www.mapillary.com/dataset/trafficsign
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
