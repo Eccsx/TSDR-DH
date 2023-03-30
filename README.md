@@ -441,7 +441,6 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- glare -->
  </tr>
 <tr>
-<tr>
   <td>2016</td>
   <td>Russia</td>
   <td><a href="#rtsd">RTSD</a></td>
@@ -493,6 +492,34 @@ Each dataset is checked for the following features:
   <td>✓</td> <!-- illumination -->
   <td>✓</td> <!-- blur -->
   <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+ <tr>
+  <td>2017</td>
+  <td>China</td>
+  <td><a href="#cctsdb2017">CCTSDB 2017</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✗</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>6,300 ~</td> <!-- instances -->
+  <td>3</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✓</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✓</td> <!-- noise -->
   <td>✗</td> <!-- codec -->
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
@@ -667,9 +694,6 @@ Each dataset is checked for the following features:
  </tr>
 </tbody></table>
 
-
-
-
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -831,6 +855,20 @@ Link ➔ https://cg.cs.tsinghua.edu.cn/traffic-sign/
 > **Note**
 > 
 > The TT100K annotations have been revised in 2021, providing more classification.
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="cctsdb2017">CUST Chinese Traffic Sign Detection Benchmark</h3>
+
+> Zhang, J., Huang, M., Jin, X., & Li, X. (2017). A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2. Algorithms, 10(4), 127. https://doi.org/10.3390/a10040127
+
+License ➔ *n/a*
+
+Link ➔ https://github.com/csust7zhangjm/CCTSDB
+
+> **Note**
+> 
+> CUST stands for Changsha University of Science and Technology.
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
