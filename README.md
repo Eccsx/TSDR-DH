@@ -161,6 +161,34 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- glare -->
 </tr>
 <tr>
+  <td>2009</td>
+  <td>Belgium</td>
+  <td><a href="#bts">BTS</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✓</td> <!-- video -->
+  <td>13,444</td> <!-- instances -->
+  <td>62</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✓</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+</tr>
+<tr>
   <td>2010</td>
   <td>France</td>
   <td><a href="#stereopolis">Stereopolis</a></td>
@@ -501,6 +529,7 @@ Each dataset is checked for the following features:
 
 
 
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -520,6 +549,22 @@ Link ➔ http://www.cs.rug.nl/~imaging
 License ➔ *n/a*
 
 Link ➔ http://users.du.se/~hfl/traffic_signs/
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="bts">BelgiumTS</h3>
+
+> R. Timofte, K. Zimmermann and L. Van Gool, "Multi-view traffic sign detection, recognition, and 3D localisation," 2009 Workshop on Applications of Computer Vision (WACV), Snowbird, UT, USA, 2009, pp. 1-8, doi: 10.1109/WACV.2009.5403121.
+>
+> Timofte, R., Zimmermann, K. & Van Gool, L. Multi-view traffic sign detection, recognition, and 3D localisation.                    *Machine Vision and Applications* **25**, 633–647 (2014). https://doi.org/10.1007/s00138-011-0391-3
+
+License ➔ *n/a*
+
+Link ➔ https://btsd.ethz.ch/shareddata/
+
+> Note
+> 
+> Research papers often refer to subsets of this dataset : BelgiumTSD (BTSD) for detection, and BelgiumTSC (BTSC) for classification.
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
