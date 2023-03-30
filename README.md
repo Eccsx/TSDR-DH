@@ -500,6 +500,34 @@ Each dataset is checked for the following features:
  <tr>
   <td>2017</td>
   <td>Belgium</td>
+  <td><a href="#cure-tsd">CURE-TSD</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✗</td> <!-- classification -->
+  <td>✗</td> <!-- image -->
+  <td>✓</td> <!-- video -->
+  <td>5,733</td> <!-- instances -->
+  <td>14</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✓</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✓</td> <!-- snow -->
+  <td>✓</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✓</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✓</td> <!-- illumination -->
+  <td>✓</td> <!-- blur -->
+  <td>✓</td> <!-- noise -->
+  <td>✓</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+ <tr>
+  <td>2017</td>
+  <td>Belgium</td>
   <td><a href="#cure-tsr">CURE-TSR</a></td>
   <td>✗</td> <!-- detection -->
   <td>✓</td> <!-- classification -->
@@ -747,6 +775,20 @@ Link ➔ https://cg.cs.tsinghua.edu.cn/traffic-sign/
 > **Note**
 > 
 > The TT100K annotations have been revised in 2021, providing more classification.
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="cure-tsr">Challenging Unreal and Real Environements for Traffic Sign Detection</h3>
+
+> Temel, D., & AlRegib, G. (2018). Traffic signs in the wild: Highlights from the ieee video and image processing cup 2017 student competition [sp competitions]. arXiv preprint arXiv:1810.06169.
+
+License ➔ *n/a*
+
+Link ➔ https://ghassanalregibdotcom.wordpress.com/cure-tsd/
+
+> **Note**
+> 
+> The synthetic data of CURE-TSD have been generated using Unreal Engine 4 and Adobe After Effects..
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
