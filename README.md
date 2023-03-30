@@ -497,6 +497,34 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
  </tr>
+ <tr>
+  <td>2017</td>
+  <td>Belgium</td>
+  <td><a href="#cure-tsr">CURE-TSR</a></td>
+  <td>✗</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>2,206,106</td> <!-- instances -->
+  <td>14</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✓</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✓</td> <!-- snow -->
+  <td>✓</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✓</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✓</td> <!-- illumination -->
+  <td>✓</td> <!-- blur -->
+  <td>✓</td> <!-- noise -->
+  <td>✓</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
 <tr>
   <td>2019</td>
   <td>Slovenia</td>
@@ -719,6 +747,20 @@ Link ➔ https://cg.cs.tsinghua.edu.cn/traffic-sign/
 > **Note**
 > 
 > The TT100K annotations have been revised in 2021, providing more classification.
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="cure-tsr">Challenging Unreal and Real Environements for Traffic Sign Recognition</h3>
+
+> Temel, D., Kwon, G., Prabhushankar, M., & AlRegib, G. (2017). CURE-TSR: Challenging unreal and real environments for traffic sign recognition. arXiv preprint arXiv:1712.02463.
+
+License ➔ *n/a*
+
+Link ➔ https://ghassanalregibdotcom.wordpress.com/cure-tsr/
+
+> **Note**
+> 
+> CURE-TSR is a cropped version of the CURE-TSD.
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
