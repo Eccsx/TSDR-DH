@@ -894,10 +894,6 @@ License ➔ *n/a*
 
 Link ➔ https://github.com/csust7zhangjm/CCTSDB
 
-> **Note**
-> 
-> CUST stands for Changsha University of Science and Technology.
-
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
 <h3 id="cure-tsr">Challenging Unreal and Real Environements for Traffic Sign Detection</h3>
@@ -965,10 +961,6 @@ Link ➔ https://bdd-data.berkeley.edu/
 License ➔ GNU General Public License v3.0
 
 Link ➔ https://github.com/csust7zhangjm/CCTSDB2021
-
-> **Note**
-> 
-> CUST stands for Changsha University of Science and Technology.
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
