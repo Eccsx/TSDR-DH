@@ -664,6 +664,34 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
  </tr>
+ <tr>
+  <td>2021</td>
+  <td>China</td>
+  <td><a href="#cctsdb2021">CCTSDB 2021</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✗</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>11,568 ~</td> <!-- instances -->
+  <td>3</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✓</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✓</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✓</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✓</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✓</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
 <tr>
   <td>2022</td>
   <td>U.S.A</td>
@@ -858,7 +886,7 @@ Link ➔ https://cg.cs.tsinghua.edu.cn/traffic-sign/
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
-<h3 id="cctsdb2017">CUST Chinese Traffic Sign Detection Benchmark</h3>
+<h3 id="cctsdb2017">CUST Chinese Traffic Sign Detection Benchmark 2017</h3>
 
 > Zhang, J., Huang, M., Jin, X., & Li, X. (2017). A Real-Time Chinese Traffic Sign Detection Algorithm Based on Modified YOLOv2. Algorithms, 10(4), 127. https://doi.org/10.3390/a10040127
 
@@ -927,6 +955,20 @@ Link ➔ https://www.vicos.si/resources/dfg/
 License ➔ BSD 3-Clause "New" or "Revised" License
 
 Link ➔ https://bdd-data.berkeley.edu/
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="cctsdb2021">CUST Chinese Traffic Sign Detection Benchmark 2021</h3>
+
+> Zhang, Jianming & Zou, Xin & Kuang, Lidan & Wang, Jin & Sherratt, Robert & Yu, Xiaofeng. (2022). CCTSDB 2021: A More Comprehensive Traffic Sign Detection Benchmark. Human-centric Computing and Information Sciences. 12. 23. 10.22967/HCIS.2022.12.023.
+
+License ➔ GNU General Public License v3.0
+
+Link ➔ https://github.com/csust7zhangjm/CCTSDB2021
+
+> **Note**
+> 
+> CUST stands for Changsha University of Science and Technology.
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
