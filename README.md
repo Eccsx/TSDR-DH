@@ -60,6 +60,16 @@ Each dataset is checked for the following features:
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
+<!-- CONTRIBUTION -->
+
+## Contribution
+
+If you notice a mistake among the datasets in the repository, or you want to add more specifications, feel free to contribute by creating a new [issue](https://github.com/Eccsx/TSDR-Dataset-Hub/issues/new) explaining the contribution and providing the resources you are based on.
+
+Moreover, if you are working in the research field (it is however not mandatory) and are using or developing a dataset for traffic sign detection and/or classification that is not listed here, you are welcome to propose it here.
+
+<p align="right"><a href="#top"><i>back to top</i></a></p>
+
 <!-- DATASETS -->
 
 <div id="datasets"></div>
