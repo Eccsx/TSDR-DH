@@ -83,7 +83,7 @@ Each dataset is checked for the following features:
  </tr>
  <tr>
   <td>detection</td>
-  <td>classfication</td>
+  <td>classification</td>
   <td>image</td>
   <td>video</td>
   <td>real</td>
