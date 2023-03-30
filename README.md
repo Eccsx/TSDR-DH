@@ -469,6 +469,34 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- vibration -->
   <td>✓</td> <!-- glare -->
  </tr>
+ <tr>
+  <td>2016</td>
+  <td>China</td>
+  <td><a href="#tt100k">TT100K</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>100,000</td> <!-- instances -->
+  <td>127</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✓</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✓</td> <!-- illumination -->
+  <td>✓</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
 <tr>
   <td>2019</td>
   <td>Slovenia</td>
@@ -556,7 +584,7 @@ Link ➔ http://users.du.se/~hfl/traffic_signs/
 
 > R. Timofte, K. Zimmermann and L. Van Gool, "Multi-view traffic sign detection, recognition, and 3D localisation," 2009 Workshop on Applications of Computer Vision (WACV), Snowbird, UT, USA, 2009, pp. 1-8, doi: 10.1109/WACV.2009.5403121.
 >
-> Timofte, R., Zimmermann, K. & Van Gool, L. Multi-view traffic sign detection, recognition, and 3D localisation.                    *Machine Vision and Applications* **25**, 633–647 (2014). https://doi.org/10.1007/s00138-011-0391-3
+> Timofte, R., Zimmermann, K. & Van Gool, L. Multi-view traffic sign detection, recognition, and 3D localisation. *Machine Vision and Applications* **25**, 633–647 (2014). https://doi.org/10.1007/s00138-011-0391-3
 
 License ➔ *n/a*
 
@@ -677,6 +705,20 @@ Link ➔ http://www.diag.uniroma1.it/~bloisi/ds/dits.html
 License ➔ *n/a*
 
 Link ➔ https://graphics.cs.msu.ru/projects/traffic-sign-recognition.html
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="tt100k">Tsinghua-Tencent 100K</h3>
+
+> Z. Zhu, D. Liang, S. Zhang, X. Huang, B. Li and S. Hu, "Traffic-Sign Detection and Classification in the Wild," 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, USA, 2016, pp. 2110-2118, doi: 10.1109/CVPR.2016.232.
+
+License ➔ Attribution-NonCommercial 4.0 International
+
+Link ➔ https://cg.cs.tsinghua.edu.cn/traffic-sign/
+
+> **Note**
+> 
+> The TT100K annotations have been revised in 2021, providing more classification.
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
