@@ -590,7 +590,7 @@ License ➔ *n/a*
 
 Link ➔ https://btsd.ethz.ch/shareddata/
 
-> Note
+> **Note**
 > 
 > Research papers often refer to subsets of this dataset : BelgiumTSD (BTSD) for detection, and BelgiumTSC (BTSC) for classification.
 
