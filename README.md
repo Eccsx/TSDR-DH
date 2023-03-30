@@ -76,7 +76,7 @@ Moreover, if you are working in the research field (not mandatory by the way) an
 
 ## Datasets
 
-<table style="text-align: center">
+<table>
  <colgroup><col>
  </colgroup><tbody><tr>
   <td rowspan="2">year</td>
