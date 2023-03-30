@@ -554,7 +554,7 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- glare -->
  </tr>
  <tr>
-  <td>2020</td>
+  <td>2019</td>
   <td>World-wide</td>
   <td><a href="#mtsd">MTSD</a></td>
   <td>✓</td> <!-- detection -->
