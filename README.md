@@ -581,6 +581,34 @@ Each dataset is checked for the following features:
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
  </tr>
+ <tr>
+  <td>2020</td>
+  <td>U.S.A</td>
+  <td><a href="#bdd100k">BDD100K</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✗</td> <!-- classification -->
+  <td>✗</td> <!-- image -->
+  <td>✓</td> <!-- video -->
+  <td>100,000</td> <!-- instances -->
+  <td>1</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✓</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✓</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
 <tr>
   <td>2022</td>
   <td>U.S.A</td>
@@ -813,6 +841,16 @@ Link ➔ https://ghassanalregibdotcom.wordpress.com/cure-tsr/
 License ➔ Attribution-NonCommercial-ShareAlike 4.0 International
 
 Link ➔ https://www.vicos.si/resources/dfg/
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="bdd100k">Berkeley DeepDrive 100K</h3>
+
+> Yu, F., Chen, H., Wang, X., Xian, W., Chen, Y., Liu, F., ... & Darrell, T. (2020). Bdd100k: A diverse driving dataset for heterogeneous multitask learning. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 2636-2645).
+
+License ➔ BSD 3-Clause "New" or "Revised" License
+
+Link ➔ https://bdd-data.berkeley.edu/
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
