@@ -704,6 +704,34 @@ Moreover, if you are working in the research field (not mandatory by the way) an
  </tr>
  <tr>
   <td>2021</td>
+  <td>Australia</td>
+  <td><a href="#atsd">ATSD</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>28,137</td> <!-- instances -->
+  <td>108</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✗</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✓</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✓</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+ <tr>
+  <td>2021</td>
   <td>China</td>
   <td><a href="#cctsdb2021">CCTSDB 2021</a></td>
   <td>✓</td> <!-- detection -->
@@ -1005,6 +1033,20 @@ Link ➔ https://www.vicos.si/resources/dfg/
 License ➔ BSD 3-Clause "New" or "Revised" License
 
 Link ➔ https://bdd-data.berkeley.edu/
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="astd">Australian Highway Traffic Sign Data Set</h3>
+
+> Maletzky, A., Hofer, N., Thumfart, S., Bruckmüller, K., & Kasper, J. (2023). Traffic Sign Detection and Classification on the Austrian Highway Traffic Sign Data Set. Data, 8(1), 16. https://doi.org/10.3390/data8010016
+
+License ➔ Apache License 2.0
+
+Link ➔ https://github.com/risc-mi/atsd
+
+> **Note**
+> 
+> THe ASTD is divided into two parts : ATSD-Scenes for the detection and ATSD-Signs for the classification.
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
