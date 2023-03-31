@@ -1000,7 +1000,7 @@ Link ➔ https://graphics.cs.msu.ru/projects/traffic-sign-recognition.html
 
 > Madani, A., & Yusof, R. (2016). Malaysian Traffic Sign Dataset for Traffic Sign Detection and Recognition Systems. *Journal of Telecommunication, Electronic and Computer Engineering (JTEC)*, *8*(11), 137–143. Retrieved from https://jtec.utem.edu.my/jtec/article/view/1423
 
-License ➔ Attribution-NonCommercial 4.0 International
+License ➔ [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Links
 
@@ -1017,7 +1017,7 @@ Links
 
 > Z. Zhu, D. Liang, S. Zhang, X. Huang, B. Li and S. Hu, "Traffic-Sign Detection and Classification in the Wild," 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), Las Vegas, NV, USA, 2016, pp. 2110-2118, doi: 10.1109/CVPR.2016.232.
 
-License ➔ Attribution-NonCommercial 4.0 International
+License ➔ [![License: CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Link ➔ https://cg.cs.tsinghua.edu.cn/traffic-sign/
 
@@ -1085,7 +1085,7 @@ Link ➔ http://www.nlpr.ia.ac.cn/pal/trafficdata/index.html
 
 > Ertler, C., Mislej, J., Ollmann, T., Porzi, L., Neuhold, G., & Kuang, Y. (2020). The mapillary traffic sign dataset for detection and classification on a global scale. In Computer Vision–ECCV 2020: 16th European Conference, Glasgow, UK, August 23–28, 2020, Proceedings, Part XXIII 16 (pp. 68-84). Springer International Publishing.
 
-License ➔ Attribution-NonCommercial-ShareAlike 4.0 International
+License ➔ [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Link ➔ https://www.mapillary.com/dataset/trafficsign
 
@@ -1095,7 +1095,7 @@ Link ➔ https://www.mapillary.com/dataset/trafficsign
 
 > D. Tabernik and D. Skočaj, "Deep Learning for Large-Scale Traffic-Sign Detection and Recognition," in IEEE Transactions on Intelligent Transportation Systems, vol. 21, no. 4, pp. 1427-1440, April 2020, doi: 10.1109/TITS.2019.2913588.
 
-License ➔ Attribution-NonCommercial-ShareAlike 4.0 International
+License ➔ [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 Link ➔ https://www.vicos.si/resources/dfg/
 
@@ -1105,7 +1105,7 @@ Link ➔ https://www.vicos.si/resources/dfg/
 
 > Yu, F., Chen, H., Wang, X., Xian, W., Chen, Y., Liu, F., ... & Darrell, T. (2020). Bdd100k: A diverse driving dataset for heterogeneous multitask learning. In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition (pp. 2636-2645).
 
-License ➔ BSD 3-Clause "New" or "Revised" License
+License ➔ [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
 Link ➔ https://bdd-data.berkeley.edu/
 
@@ -1115,7 +1115,7 @@ Link ➔ https://bdd-data.berkeley.edu/
 
 > Maletzky, A., Hofer, N., Thumfart, S., Bruckmüller, K., & Kasper, J. (2023). Traffic Sign Detection and Classification on the Austrian Highway Traffic Sign Data Set. Data, 8(1), 16. https://doi.org/10.3390/data8010016
 
-License ➔ Apache License 2.0
+License ➔ [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Link ➔ https://github.com/risc-mi/atsd
 
@@ -1129,7 +1129,7 @@ Link ➔ https://github.com/risc-mi/atsd
 
 > Zhang, Jianming & Zou, Xin & Kuang, Lidan & Wang, Jin & Sherratt, Robert & Yu, Xiaofeng. (2022). CCTSDB 2021: A More Comprehensive Traffic Sign Detection Benchmark. Human-centric Computing and Information Sciences. 12. 23. 10.22967/HCIS.2022.12.023.
 
-License ➔ GNU General Public License v3.0
+License ➔ [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 Link ➔ https://github.com/csust7zhangjm/CCTSDB2021
 
@@ -1153,7 +1153,7 @@ Link ➔ https://github.com/oipa/CITS-traffic-alerts
 
 > Gray, Nicholas & Moraes, Megan & Bian, Jiang & Tian, Allen & Wang, Alex & Xiong, Haoyi & Guo, Zhishan. (2022). GLARE: A Dataset for Traffic Sign Detection in Sun Glare.
 
-License ➔ Creative Commons Attribution 4.0 International Public License
+License ➔ [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Link ➔ https://github.com/NicholasCG/GLARE_Dataset
 
