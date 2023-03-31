@@ -759,6 +759,34 @@ Moreover, if you are working in the research field (not mandatory by the way) an
   <td>✗</td> <!-- glare -->
  </tr>
 <tr>
+  <td>2021</td>
+  <td>Spain</td>
+  <td><a href="#cits">CITS</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✓</td> <!-- video -->
+  <td>4,744</td> <!-- instances -->
+  <td></td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✗</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✗</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✓</td> <!-- fog -->
+  <td>✓</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✓</td> <!-- illumination -->
+  <td>✓</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+<tr>
   <td>2022</td>
   <td>U.S.A</td>
   <td><a href="#glare">GLARE</a></td>
@@ -787,6 +815,7 @@ Moreover, if you are working in the research field (not mandatory by the way) an
   <td>✓</td> <!-- glare -->
  </tr>
 </tbody></table>
+
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
@@ -1036,7 +1065,7 @@ Link ➔ https://bdd-data.berkeley.edu/
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
-<h3 id="astd">Australian Highway Traffic Sign Data Set</h3>
+<h3 id="atsd">Australian Highway Traffic Sign Data Set</h3>
 
 > Maletzky, A., Hofer, N., Thumfart, S., Bruckmüller, K., & Kasper, J. (2023). Traffic Sign Detection and Classification on the Austrian Highway Traffic Sign Data Set. Data, 8(1), 16. https://doi.org/10.3390/data8010016
 
@@ -1057,6 +1086,20 @@ Link ➔ https://github.com/risc-mi/atsd
 License ➔ GNU General Public License v3.0
 
 Link ➔ https://github.com/csust7zhangjm/CCTSDB2021
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="cits">CITS traffic alerts</h3>
+
+> Iparraguirre, O., Amundarain, A., Brazalez, A., & Borro, D. (2021). Sensors on the Move: Onboard Camera-Based Real-Time Traffic Alerts Paving the Way for Cooperative Roads. Sensors, 21(4), 1254. https://doi.org/10.3390/s21041254
+
+License ➔ *n/a*
+
+Link ➔ https://github.com/oipa/CITS-traffic-alerts
+
+> **Note**
+> 
+> The CITS is made of two databases : Ceit-TSR (detection and recognition) and Ceit-Foggy (for fog detection).
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
