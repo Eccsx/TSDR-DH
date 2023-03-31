@@ -422,7 +422,7 @@ Moreover, if you are working in the research field (not mandatory by the way) an
   <td>✗</td> <!-- vibration -->
   <td>✗</td> <!-- glare -->
  </tr>
-<tr>
+ <tr>
   <td>2016</td>
   <td>Italy</td>
   <td><a href="#dits">DITS</a></td>
@@ -440,6 +440,34 @@ Moreover, if you are working in the research field (not mandatory by the way) an
   <td>✗</td> <!-- snow -->
   <td>✗</td> <!-- haze -->
   <td>✓</td> <!-- fog -->
+  <td>✗</td> <!-- occlusion -->
+  <td>✗</td> <!-- faded color -->
+  <td>✗</td> <!-- damage -->
+  <td>✗</td> <!-- illumination -->
+  <td>✗</td> <!-- blur -->
+  <td>✗</td> <!-- noise -->
+  <td>✗</td> <!-- codec -->
+  <td>✗</td> <!-- vibration -->
+  <td>✗</td> <!-- glare -->
+ </tr>
+<tr>
+  <td>2016</td>
+  <td>Malaysia</td>
+  <td><a href="#maylasiatsd">MTSD</a></td>
+  <td>✓</td> <!-- detection -->
+  <td>✓</td> <!-- classification -->
+  <td>✓</td> <!-- image -->
+  <td>✗</td> <!-- video -->
+  <td>1,000</td> <!-- instances -->
+  <td>66</td> <!-- classes -->
+  <td>✓</td> <!-- real -->
+  <td>✓</td> <!-- synthetic -->
+  <td>✓</td> <!-- day -->
+  <td>✓</td> <!-- night -->
+  <td>✓</td> <!-- rain -->
+  <td>✗</td> <!-- snow -->
+  <td>✗</td> <!-- haze -->
+  <td>✗</td> <!-- fog -->
   <td>✗</td> <!-- occlusion -->
   <td>✗</td> <!-- faded color -->
   <td>✗</td> <!-- damage -->
@@ -817,6 +845,7 @@ Moreover, if you are working in the research field (not mandatory by the way) an
 </tbody></table>
 
 
+
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
 <h3 id="rugtsd">RUG Traffic Sign Image Database</h3>
@@ -964,6 +993,23 @@ Link ➔ http://www.diag.uniroma1.it/~bloisi/ds/dits.html
 License ➔ *n/a*
 
 Link ➔ https://graphics.cs.msu.ru/projects/traffic-sign-recognition.html
+
+<p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
+
+<h3 id="malaysiatsd">Malaysian Traffic Sign Dataset</h3>
+
+> Madani, A., & Yusof, R. (2016). Malaysian Traffic Sign Dataset for Traffic Sign Detection and Recognition Systems. *Journal of Telecommunication, Electronic and Computer Engineering (JTEC)*, *8*(11), 137–143. Retrieved from https://jtec.utem.edu.my/jtec/article/view/1423
+
+License ➔ Attribution-NonCommercial 4.0 International
+
+Links
+
+- http://vcari.net/cairo/downloads/MTSD.part1.rar
+- http://vcari.net/cairo/downloads/MTSD.part2.rar
+- http://vcari.net/cairo/downloads/MTSD.part3.rar
+- http://vcari.net/cairo/downloads/MTSD.part4.rar
+- http://vcari.net/cairo/downloads/MTSD.part5.rar
+- http://vcari.net/cairo/downloads/MTSD.part6.rar
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
