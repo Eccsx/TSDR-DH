@@ -453,7 +453,7 @@ Moreover, if you are working in the research field (not mandatory by the way) an
 <tr>
   <td>2016</td>
   <td>Malaysia</td>
-  <td><a href="#maylasiatsd">MTSD</a></td>
+  <td><a href="#malaysiatsd">MTSD</a></td>
   <td>✓</td> <!-- detection -->
   <td>✓</td> <!-- classification -->
   <td>✓</td> <!-- image -->
