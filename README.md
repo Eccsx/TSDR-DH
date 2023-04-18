@@ -1037,7 +1037,7 @@ Link ➔ https://github.com/csust7zhangjm/CCTSDB
 
 <p align="right"><a href="#datasets"><i>back to datasets</i></a></p>
 
-<h3 id="cure-tsr">Challenging Unreal and Real Environements for Traffic Sign Detection</h3>
+<h3 id="cure-tsd">Challenging Unreal and Real Environements for Traffic Sign Detection</h3>
 
 > Temel, D., & AlRegib, G. (2018). Traffic signs in the wild: Highlights from the ieee video and image processing cup 2017 student competition [sp competitions]. arXiv preprint arXiv:1810.06169.
 
